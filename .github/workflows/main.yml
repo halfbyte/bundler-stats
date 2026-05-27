@@ -12,7 +12,6 @@ jobs:
       matrix:
         os: [ubuntu-latest, macos-latest]
         ruby-version: [4.0, 3.4, 3.3, 3.2]
-        exclude:
     runs-on: ${{ matrix.os }}
 
     steps:
