@@ -1,6 +1,10 @@
 Changelog
 =============
 
+## Unreleased
+
+- Relax Bundler dependency to work with Bundler 4.x
+
 ## [2.3.0] - 2022-02-12
 
 ### Added
